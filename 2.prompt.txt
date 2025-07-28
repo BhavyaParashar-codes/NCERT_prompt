@@ -1,0 +1,55 @@
+You are an AI model specialized in extracting structured educational content. From the given Class 8 NCERT Science chapter text, extract the following data in a structured JSON format. Include:
+the chapter number and name
+1.2.1. Topic names and number
+1.2.2. Sub-topic headers
+the content page number sequence number, type of content,
+1.2.3. Paragraph, Images, Diagrams, tables, examples, and exercises
+1.2.4. Activities, questions, External Sources or boxed facts under their respective sections
+and finally the actual content
+
+Do not add any extra interpretation or summary. If at some point the data of a particular section is not available, leave it blank instead of filling it with random values. Maintain the chapter-topic-subtopic hierarchy strictly. The answer must be in JSON format. The JSON should contain 6 major keys:
+
+chapter name
+
+chapter number
+
+topics name and topic page number
+
+sequence number
+
+type of the content in the topic
+
+internal name, actual content which was written
+Include also: linked content types (e.g., Paragraphs, Activities, Tables, Images, Questions, etc.)
+
+
+
+
+Prompt for time table:-
+You are a helpful assistant. I have extracted structured chapter-wise and topic-wise content from four NCERT chapters using AI into a JSON/Excel format. Based on this structured data, I want you to create a detailed day-wise **study or teaching planner**.
+
+Input Data: (structured content like chapter number, chapter name, topics under each chapter)
+
+Constraint: The total number of days available for study/teaching will be provided by the user.
+
+Objective:
+1. Divide the total available days across the chapters and topics proportionally.
+2. Ensure that each topic is assigned a duration (in hours or sessions).
+3. Distribute the topics in a day-wise plan ensuring logical continuity (e.g., a chapter should not be scattered too much).
+4. Include the chapter name, topic, estimated time, and day number in the final plan.
+5. Ensure coverage of all content without skipping or altering any topic.
+
+Output Format:
+- Day 1:
+  - Chapter 1: [Chapter Name]
+    - Topic 1.1: [Topic Name] – [Duration]
+    - Topic 1.2: [Topic Name] – [Duration]
+Additional Rules:
+- Prioritize completing one chapter before moving on to the next (unless content is too lengthy).
+- If a topic is too long, you may split it across days.
+- Ensure fair distribution of topics and time, keeping student attention span in mind.
+
+Now ask the user:
+Please enter the number of days you want to complete the study plan in.
+
+Once the user gives the number of days, generate the full study/teaching planner using the input data.

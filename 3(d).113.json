@@ -1,0 +1,258 @@
+{
+  "chapter_name": "Light",
+  "chapter_number": 13,
+  "topics": [
+    {
+      "topic_name": "What makes Things Visible",
+      "topic_title": "13.1 What makes Things Visible",
+      "topic_page_number": 166,
+      "content": [
+        {
+          "sequence_number": 1,
+          "type": "Paragraph",
+          "internal_name": "Introduction to Light",
+          "actual_content": "The world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky. At night we see the moon and the stars. You are able to see the words and sentences printed on this page. How is seeing made possible?"
+        },
+        {
+          "sequence_number": 2,
+          "type": "Activity",
+          "internal_name": "Activity 13.1",
+          "actual_content": "Fix a white sheet of paper on a drawing board or a table. Take a comb and close all its openings except one in the middle. You can use a strip of black paper for this purpose. Hold the comb perpendicular to the sheet of paper. Throw light from a torch through the opening of the comb from one side (Fig. 13.1). With slight adjustment of the torch and the comb you will see a ray of light along the paper on the other side of the comb. Keep the comb and the torch steady. Place a strip of plane mirror in the path of the light ray (Fig. 13.1). What do you observe?"
+        },
+        {
+          "sequence_number": 3,
+          "type": "Image",
+          "internal_name": "Fig. 13.1",
+          "actual_content": "Fig. 13.1 : Arrangement for showing reflection"
+        }
+      ]
+    },
+    {
+      "topic_name": "Laws of Reflection",
+      "topic_title": "13.2 Laws of Reflection",
+      "topic_page_number": 166,
+      "content": [
+        {
+          "sequence_number": 1,
+          "type": "Paragraph",
+          "internal_name": "Reflection Explanation",
+          "actual_content": "After striking the mirror, the ray of light is reflected in another direction. The light ray, which strikes any surface, is called the incident ray. The ray that comes back from the surface after reflection is known as the reflected ray."
+        },
+        {
+          "sequence_number": 2,
+          "type": "Activity",
+          "internal_name": "Activity 13.2",
+          "actual_content": "Perform Activity 13.1 again. This time use a sheet of stiff paper or a chart paper. Let the sheet project a little beyond the edge of the Table (Fig. 13.4). Cut the projecting portion of the sheet in the middle. Look at the reflected ray. Make sure that the reflected ray extends to the projected portion of the paper. Bend that part of the projected portion on which the reflected ray falls. Can you still see the reflected ray? Bring the paper back to the original position. Can you see the reflected ray again? What do you infer?"
+        },
+        {
+          "sequence_number": 3,
+          "type": "Image",
+          "internal_name": "Fig. 13.2",
+          "actual_content": "Fig. 13.2 : Drawing the normal"
+        },
+        {
+          "sequence_number": 4,
+          "type": "Table",
+          "internal_name": "Table 13.1",
+          "actual_content": "S. No. | Angle of Incidence (∠i) | Angle of Reflection (∠r)\n1. | ... | ...\n2. | ... | ...\n3. | ... | ...\n4. | ... | ...\n5. | ... | ..."
+        }
+      ]
+    },
+    {
+      "topic_name": "Regular and Diffused Reflection",
+      "topic_title": "13.3 Regular and Diffused Reflection",
+      "topic_page_number": 168,
+      "content": [
+        {
+          "sequence_number": 1,
+          "type": "Activity",
+          "internal_name": "Activity 13.4",
+          "actual_content": "Imagine that parallel rays are incident on an irregular surface as shown in Fig. 13.6. Remember that the laws of reflection are valid at each point of the surface. Use these laws to construct reflected rays at various points. Are they parallel to one another? You will find that these rays are reflected in different directions. (Fig. 13.7)"
+        },
+        {
+          "sequence_number": 2,
+          "type": "Image",
+          "internal_name": "Fig. 13.6",
+          "actual_content": "Fig. 13.6 : Parallel rays incident on an irregular surface"
+        },
+        {
+          "sequence_number": 3,
+          "type": "Paragraph",
+          "internal_name": "Diffused Reflection Explanation",
+          "actual_content": "When all the parallel rays reflected from a rough or irregular surface are not parallel, the reflection is known as diffused or irregular reflection."
+        }
+      ]
+    },
+    {
+      "topic_name": "Reflected Light Can be Reflected Again",
+      "topic_title": "13.4 Reflected Light Can be Reflected Again",
+      "topic_page_number": 169,
+      "content": [
+        {
+          "sequence_number": 1,
+          "type": "Paragraph",
+          "internal_name": "Multiple Reflections",
+          "actual_content": "Recall the last time you visited a hair dresser. She/he makes you sit in front of a mirror. After your hair cut is complete, she/he holds a mirror behind you to show you how the hair has been cut (Fig. 13.9). Do you know how you could see the hair at the back of your head?"
+        },
+        {
+          "sequence_number": 2,
+          "type": "Image",
+          "internal_name": "Fig. 13.9",
+          "actual_content": "Fig. 13.9 : Mirror at the hair dresser shop"
+        }
+      ]
+    },
+    {
+      "topic_name": "Multiple Images",
+      "topic_title": "13.5 Multiple Images",
+      "topic_page_number": 170,
+      "content": [
+        {
+          "sequence_number": 1,
+          "type": "Activity",
+          "internal_name": "Activity 13.5",
+          "actual_content": "Take two plane mirrors. Set them at right angles to each other with their edges touching (Fig. 13.10). To hinge them you can use adhesive tape. Place a coin in between the mirrors. How many images of the coin do you see (Fig. 13.10)?"
+        },
+        {
+          "sequence_number": 2,
+          "type": "Image",
+          "internal_name": "Fig. 13.10",
+          "actual_content": "Fig. 13.10 : Images in plane mirror at right angle to each other"
+        }
+      ]
+    },
+    {
+      "topic_name": "Sunlight — White or Coloured",
+      "topic_title": "13.6 Sunlight — White or Coloured",
+      "topic_page_number": 171,
+      "content": [
+        {
+          "sequence_number": 1,
+          "type": "Activity",
+          "internal_name": "Activity 13.7",
+          "actual_content": "Get a plane mirror of a suitable size. Place it in a bowl (katori) as shown in Fig. 13.13. Fill the bowl with water. Put this arrangement near a window in such a way that direct sunlight falls on the mirror. Adjust the position of the bowl so that the reflected light from the mirror falls on a wall. If the wall is not white, fix a sheet of white paper on it. Reflected light will be seen to have many colours. How can you explain this? The mirror and water form a prism. As you learnt in Class VII, this breaks up the light into its colours, Splitting of light into its colours is known as dispersion of light. Rainbow is a natural phenomenon showing dispersion."
+        },
+        {
+          "sequence_number": 2,
+          "type": "Image",
+          "internal_name": "Fig. 13.13",
+          "actual_content": "Fig. 13.13 : Dispersion of light"
+        }
+      ]
+    },
+    {
+      "topic_name": "What is inside Our Eyes?",
+      "topic_title": "13.7 What is inside Our Eyes?",
+      "topic_page_number": 172,
+      "content": [
+        {
+          "sequence_number": 1,
+          "type": "Paragraph",
+          "internal_name": "Eye Structure",
+          "actual_content": "We see things only when light coming from them enters our eyes. Eye is one of our most important sense organs. It is, therefore, important to understand its structure and working. The eye has a roughly spherical shape. The outer coat of the eye is white. It is tough so that it can protect the interior of the eye from accidents. Its transparent front part is called cornea (Fig. 13.14). Behind the cornea, we find a dark muscular structure called iris. In the iris, there is a small opening called the pupil. The size of the pupil is controlled by the iris. The iris is that part of eye which gives it its distinctive colour. When we say that a person has green eyes, we refer actually to the colour of the iris. The iris controls the amount of light entering into the eye. Let us see how."
+        },
+        {
+          "sequence_number": 2,
+          "type": "Activity",
+          "internal_name": "Activity 13.8",
+          "actual_content": "Look into your friend’s eye. Observe the size of the pupil. Throw light on her eye with a torch. Observe the pupil now. Switch off the torch, and observe her pupil once again. Do you notice any change in the size of the pupil? In which case was the pupil larger? Why do you think it was so? In which case do you need to allow more light in the eye, when the light is dim or bright?"
+        },
+        {
+          "sequence_number": 3,
+          "type": "Image",
+          "internal_name": "Fig. 13.14",
+          "actual_content": "Fig. 13.14 : Human eye"
+        }
+      ]
+    },
+    {
+      "topic_name": "Care of the Eyes",
+      "topic_title": "13.8 Care of the Eyes",
+      "topic_page_number": 173,
+      "content": [
+        {
+          "sequence_number": 1,
+          "type": "Paragraph",
+          "internal_name": "Eye Care Tips",
+          "actual_content": "It is necessary that you take proper care of your eyes. If there is any problem you should go to an eye specialist. Have a regular checkup—\n- If advised, use suitable spectacles.\n- Too little or too much light is bad for eyes. Insufficient light causes eyestrain and headaches. Too much light, like that of the Sun, a powerful lamp or a laser torch can injure the retina.\n- Do not look at the Sun or a powerful light directly.\n- Never rub your eyes. If particles of dust go into your eyes, wash your eyes with clean water. If there is no improvement go to a doctor.\n- Always read at the normal distance for vision. Do not read by bringing the book too close to your eyes or keeping it too far."
+        }
+      ]
+    },
+    {
+      "topic_name": "Visually Impaired Persons Can Read and Write",
+      "topic_title": "13.9 Visually Impaired Persons Can Read and Write",
+      "topic_page_number": 174,
+      "content": [
+        {
+          "sequence_number": 1,
+          "type": "Paragraph",
+          "internal_name": "Visually Impaired Explanation",
+          "actual_content": "Some persons, including children, can be visually impaired. They have very limited vision to see things. Some persons cannot see at all since birth. Some persons may lose their eyesight because of a disease or an injury. Such persons try to identify things by touching and listening to voices more carefully. They develop their other senses more sharply. However, additional resources can enable them to develop their capabilities further."
+        }
+      ]
+    },
+    {
+      "topic_name": "What is the Braille System?",
+      "topic_title": "13.10 What is the Braille System?",
+      "topic_page_number": 175,
+      "content": [
+        {
+          "sequence_number": 1,
+          "type": "Paragraph",
+          "internal_name": "Braille System Explanation",
+          "actual_content": "The most popular resource for visually challenged persons is Braille. Louis Braille, himself a visually challenged person, developed a system for visually challenged persons and published it in 1821. The present system was adopted in 1932. There is Braille code for common languages, mathematics and scientific notation. Many Indian languages can be read using the Braille system."
+        },
+        {
+          "sequence_number": 2,
+          "type": "Image",
+          "internal_name": "Fig. 13.18",
+          "actual_content": "Fig. 13.18 : Example of dot patterns used in Braille System"
+        }
+      ]
+    },
+    {
+      "topic_name": "Exercises",
+      "topic_title": "Exercises",
+      "topic_page_number": 178,
+      "content": [
+        {
+          "sequence_number": 1,
+          "type": "Question",
+          "internal_name": "Exercise 1",
+          "actual_content": "Suppose you are in a dark room. Can you see objects in the room? Can you see objects outside the room. Explain."
+        },
+        {
+          "sequence_number": 2,
+          "type": "Question",
+          "internal_name": "Exercise 2",
+          "actual_content": "Differentiate between regular and diffused reflection. Does diffused reflection mean the failure of the laws of reflection?"
+        },
+        {
+          "sequence_number": 3,
+          "type": "Question",
+          "internal_name": "Exercise 3",
+          "actual_content": "Mention against each of the following whether regular or diffused reflection will take place when a beam of light strikes. Justify your answer in each case.\n(a) Polished wooden table\n(b) Chalk powder\n(c) Cardboard surface\n(d) Marble floor with water spread over it\n(e) Mirror\n(f) Piece of paper"
+        }
+      ]
+    },
+    {
+      "topic_name": "Extended Learning — Activities and Project",
+      "topic_title": "Extended Learning — Activities and Project",
+      "topic_page_number": 180,
+      "content": [
+        {
+          "sequence_number": 1,
+          "type": "Activity",
+          "internal_name": "Project 1",
+          "actual_content": "Make your own mirror. Take a glass strip or glass slab. Clean it and put it on a white sheet of paper. See yourself in the glass. Next put the glass slab on a black sheet of paper. Again look into the glass. In which case do you see yourself better and why?"
+        },
+        {
+          "sequence_number": 2,
+          "type": "Activity",
+          "internal_name": "Project 2",
+          "actual_content": "Make friends with some visually impaired students. Enquire from them how they read and write. Also find out how they are able to recognise objects, hurdles and currency notes."
+        }
+      ]
+    }
+  ]
+}
